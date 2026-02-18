@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/oasdiff/yaml3"
+	yaml "github.com/zeroflucs-given/yaml3"
 )
 
 // Marshal the object into JSON then converts JSON to YAML and returns the
